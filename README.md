@@ -1,6 +1,6 @@
-h2 align="center">Hi there!🤘</h2>
+<h2 align="center">Hi there!🤘</h2>
 <p align="center">
-  <samp>My name is Rustam, I'm from Kyrghyzstan! <br> <br> I am Full Stack JavaScript developer. 😎
+  <samp><b>My name is Rustam, I'm from Kyrghyzstan! <br> <br> I am Full Stack JavaScript developer. 😎
   </samp>
   <br> <br>
 </p>
